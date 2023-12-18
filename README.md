@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NguyenNgocHuy-2003
+- 👋 Hi, I’m NguyenNgocHuy
 
 <!---
 NguyenNgocHuy-2003/NguyenNgocHuy-2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
